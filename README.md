@@ -1,8 +1,10 @@
-# React + Vite
+# Calculator
+- A website where you can use a calculator. It works to add numbers, subtract numbers, multiply numbers and divide numbers.
+- Bulid using pure `React.js`.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛠 Tools
+- `React.js`
 
-Currently, two official plugins are available:
+# 🎥 Here what project looks like
+https://github.com/Hritik-sharmaa/Calculator/assets/130376335/b442c14f-2f8b-4629-ba6c-53c85ea123bc
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
